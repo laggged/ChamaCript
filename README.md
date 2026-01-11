@@ -1,7 +1,7 @@
 # ChamaCript
 Un programa donde puedes "encriptar" a un idioma inventado conocido como ChamaLang
 
-*Requisitos*
+# *Requisitos*
 -*>Python 3.12*
 -*Libreria pyfiglet*
 
