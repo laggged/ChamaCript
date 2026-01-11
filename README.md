@@ -1,5 +1,5 @@
 # ChamaCript
-Un programa donde puedes "encriptar" a un idioma inventado conocido como ChamaLang
+Un programa donde puedes "encriptar" a un sistema de simbolos correspondiente al teclado "qwerty" en gboard.
 
 # *Requisitos*
 -*>Python 3.12*
